@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求"
+  short_description: "结合描述、图片和仓库代码，精简分析需求与 Bug，并完成自测、自检和反省"
+  default_prompt: "使用 $req 结合上下文、图片和仓库分析需求或 Bug，完成自测、自检和反省后给出精简结论。"
